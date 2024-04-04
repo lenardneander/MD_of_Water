@@ -12,5 +12,3 @@ To run your code, activate the environment via
 ```
 conda activate waterMD
 ```
-And if you need new packages, please append them to the list (dependencies) in the environment.yml file.  
-In case you run into trouble, please let me (börries) know.
