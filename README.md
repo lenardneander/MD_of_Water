@@ -12,3 +12,4 @@ To run your code, activate the environment via
 ```
 conda activate waterMD
 ```
+Simulation can be started via Jupyter notebook. Useful plots will also be displayed in the notebook
