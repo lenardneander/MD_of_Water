@@ -1,0 +1,31 @@
+name: waterMD
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter_core
+  - seaborn
+  - matplotlib-base
+  - jupyter
+  - tqdm
+  - mdtraj
+  - numba
+  - mkl-service
+  - setuptools
+  - numexpr
+  - sympy
+  - pip
+  - ase
+  - nbformat
+  - intel-openmp
+  - numpy
+  - numpy-base
+  - ase
+  - tbb4py
+  - pandas
+  - python=3.9
+  - sqlite
+  - matplotlib-inline
+  - matplotlib
+  - pytest=7
+prefix: C:\Users\Borris\.conda\envs\waterMD
