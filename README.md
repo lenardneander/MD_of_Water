@@ -12,4 +12,5 @@ To run your code, activate the environment via
 ```
 conda activate waterMD
 ```
-Simulation can be started via Jupyter notebook. Useful plots will also be displayed in the notebook
+Simulation can be started via Jupyter notebook "start_simulation.ipynb". Useful plots will also be displayed in the notebook.
+Results for the simulation will be placed in the folder "Simulation_Results". In order to visualize the simulation the pdb file has to be imported into the software VMD.
