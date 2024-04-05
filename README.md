@@ -17,3 +17,6 @@ Results for the simulation will be placed in the folder "Simulation_Results". In
 
 Visual Molecular Dynamics
 https://www.ks.uiuc.edu/Research/vmd/
+
+An example simulation video can be found here:
+https://drive.google.com/file/d/1NL3M3zioGEI6Ulq0b4lKcD W-EQn1sn5g/view?usp=sharing
